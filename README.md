@@ -1,7 +1,7 @@
 <!-- Верхний баннер профиля -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=180&section=header&text=Семён%20Беседа&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Разработка%20веб-приложений&descAlignY=60&descSize=18" alt="Семён Беседа — разработка веб-приложений" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=180&section=header&text=Семён%20Беседа&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Семён Беседа — разработка веб-приложений" />
 
   <p>
     <a href="https://github.com/Savatan"><img src="https://komarev.com/ghpvc/?username=Savatan&style=flat-square&color=2563eb&label=Просмотры%20профиля" alt="Просмотры профиля" /></a>
@@ -11,7 +11,7 @@
 
 ## Обо мне
 
-Занимаюсь разработкой веб-приложений: работаю с frontend, изучаю backend и развиваю собственные проекты.
+Full-Stack-разработчик. Разрабатываю веб-приложения, работаю как с frontend, так и с backend, и развиваю собственные проекты.
 
 - **Frontend:** JavaScript, HTML, CSS, Vue.js, Vite
 - **Backend:** Python, Django, Node.js
@@ -45,12 +45,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Savatan&theme=tokyonight&hide_border=true" alt="Серия активности на GitHub" />
-</div>
-
-## График активности
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Savatan&theme=tokyo-night&hide_border=true&area=true" alt="График активности GitHub" />
 </div>
 
 ---
