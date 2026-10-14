@@ -1,4 +1,4 @@
-<!-- Верхний баннер профиля -->
+
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=180&section=header&text=Семён%20Беседа&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Семён Беседа — разработка веб-приложений" />
