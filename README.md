@@ -1,16 +1,11 @@
 <div align="center">
 
-<h1 align="center">Привет! 👋 Я Savatan</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full-Stack+разработчик;Создаю+веб-приложения;Frontend+%2B+Backend" alt="Full-Stack разработчик · Создаю веб-приложения" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Привет%2C+я+Savatan+%F0%9F%91%8B;Full-Stack+разработчик;Создаю+веб-приложения" alt="Привет, я Savatan — Full-Stack разработчик" />
 
 <p>
-  Разрабатываю веб-приложения — от интерфейса до серверной логики.
+  <b>Full-Stack-разработчик</b><br/>
+  Frontend · Backend · Веб-приложения
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Savatan&style=for-the-badge&color=7AA2F7&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Profile views" />
 
 </div>
 
@@ -23,7 +18,7 @@
 ## 🛠️ Технологии
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,vite,python,django,nodejs,php,java,mysql,git,tailwind,figma&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,vite,python,django,nodejs,php,java,mysql,git,tailwind,figma&perline=8" alt="Технологии и инструменты" />
 </div>
 
 ## 🚀 Избранные проекты
