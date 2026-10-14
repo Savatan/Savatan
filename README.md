@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Привет%2C+я+Savatan+%F0%9F%91%8B;Full-Stack+разработчик;Создаю+веб-приложения" alt="Привет, я Savatan — Full-Stack разработчик" />
+<h1 align="center">Привет! 👋 Я Savatan</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full-Stack+разработчик;Создаю+веб-приложения;Frontend+%2B+Backend" alt="Full-Stack разработчик · Создаю веб-приложения" />
+</p>
 
 <p>
-  <b>Full-Stack-разработчик</b><br/>
-  Frontend · Backend · Веб-приложения
+  Разрабатываю веб-приложения — от интерфейса до серверной логики.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Savatan&style=for-the-badge&color=7AA2F7&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Profile views" />
@@ -30,7 +33,7 @@
     <td width="50%">
       <h3><a href="https://github.com/Savatan/GenesisAuto">GenesisAuto</a></h3>
       <p>Сайт по подбору автомобилей с отправкой заявок и интеграцией с Bitrix24.</p>
-      <p><sub>Vue · Vite · API integration</sub></p>
+      <p><sub>Vue · Vite · Интеграция с API</sub></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/Savatan/Film">Film</a></h3>
