@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/155f823b476cb91fa2b65315825ab328d6c95094ab1132be35c629025e5e45b8.gif" width="200" alt="Меллстрой — реакция шока" />
+<img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/155f823b476cb91fa2b65315825ab328d6c95094ab1132be35c629025e5e45b8.gif" width="320" alt="Меллстрой — реакция шока" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Sema!+%F0%9F%91%8B;Full-Stack+Developer;Building+web+applications" alt="Привет,я Сема — Full-Stack Developer" />
 
