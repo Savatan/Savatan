@@ -4,7 +4,7 @@
 
 <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/155f823b476cb91fa2b65315825ab328d6c95094ab1132be35c629025e5e45b8.gif" width="320" alt="Меллстрой — реакция шока" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Sema!+%F0%9F%91%8B;Full-Stack+Developer;Building+web+applications" alt="Привет,я Сема — Full-Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Sema;Full-Stack+Developer;Building+web+applications" alt="Привет,я Сема — Full-Stack Developer" />
 
 <p><b>Full-Stack-разработчик</b><br/>Frontend · Backend · Веб-приложения</p>
 
@@ -14,17 +14,17 @@
 
 ---
 
-## 🧑‍💻 Обо мне
+## Обо мне
 
 Разрабатываю веб-приложения и работаю как с frontend, так и с backend. Люблю превращать идеи в работающие продукты и постепенно улучшать свои проекты.
 
-## 🛠️ Технологии
+## Технологии
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,vite,python,django,nodejs,php,java,mysql,git,tailwind,figma&perline=8" alt="Технологии и инструменты" />
 </div>
 
-## 🚀 Избранные проекты
+## Избранные проекты
 
 <table>
   <tr>
@@ -54,13 +54,13 @@
       <p>Frontend-проект.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/Savatan/BlackSmithVR">BlackSmithVR</a></h3>
-      <p>Проект в области виртуальной реальности.</p>
+      <h3><a href="https://github.com/Savatan/django-lab">django-lab</a></h3>
+      <p>Лабораторные работы с использованием Python и Django.</p>
     </td>
   </tr>
 </table>
 
-## 📊 Статистика GitHub
+## Статистика GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Savatan&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Статистика GitHub" />
