@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://gifs.ru/gifs/mellstroy-shok-nNtdwP?utm_source=share&utm_medium=copy_link" width="420" alt="Animated coding GIF" />
+<img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d9b8b6ddcf2971aace863c5ac643083b8473e8dce0db1d5dd793845f7cab3136_500.webp" width="420" alt="Меллстрой — реакция шока" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Sema!+%F0%9F%91%8B;Full-Stack+Developer;Building+web+applications" alt="Привет,я Сема — Full-Stack Developer" />
 
