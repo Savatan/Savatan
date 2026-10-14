@@ -1,54 +1,75 @@
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=180&section=header&text=Семён%20Беседа&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Семён Беседа — разработка веб-приложений" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Savatan+%F0%9F%91%8B;Full-Stack+Developer;Building+web+applications" alt="Typing intro" />
 
-  <p>
-    <a href="https://github.com/Savatan"><img src="https://komarev.com/ghpvc/?username=Savatan&style=flat-square&color=2563eb&label=Просмотры%20профиля" alt="Просмотры профиля" /></a>
-  </p>
+<p>
+  <b>Full-Stack Developer</b><br/>
+  Frontend · Backend · Web Applications
+</p>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Savatan&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views" />
 
-## Обо мне
-
-Full-Stack-разработчик. Разрабатываю веб-приложения, работаю как с frontend, так и с backend, и развиваю собственные проекты.
-
-- **Frontend:** JavaScript, HTML, CSS, React, Vue.js, Vite
-- **Backend:** Python, Django, Node.js
-- **Инструменты и базы данных:** Git, MySQL
-
-## Технологии
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,vite,python,django,nodejs,mysql,git,php,java,tailwind,figma&perline=7" alt="Технологии и инструменты" />
-
-</div>
-
-## Избранные проекты
-
-| Проект | Описание |
-|---|---|
-| [GenesisAuto](https://github.com/Savatan/GenesisAuto) | Сайт по подбору автомобилей. Реализована отправка заявок и интеграция с Bitrix24. |
-| [Film](https://github.com/Savatan/Film) | Проект для сбора и обработки информации о фильмах. |
-| [MM-frontend](https://github.com/Savatan/MM-frontend) · [MM-backend](https://github.com/Savatan/MM-backend) | Frontend- и backend-части проекта. |
-| [Catalog-Book](https://github.com/Savatan/Catalog-Book) | Каталог книг на Django. |
-| [Receipt-for-Luck](https://github.com/Savatan/Receipt-for-Luck) | Frontend-проект. |
-| [BlackSmithVR](https://github.com/Savatan/BlackSmithVR) | VR-проект. |
-
-## GitHub-статистика
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Savatan&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Статистика GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savatan&layout=compact&hide_border=true&theme=tokyonight" alt="Языки в репозиториях" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Savatan&theme=tokyonight&hide_border=true" alt="Серия активности на GitHub" />
 </div>
 
 ---
 
+## 🧑‍💻 About me
+
+I build web applications and work across both frontend and backend. I enjoy turning ideas into working products and improving my projects along the way.
+
+## 🛠️ Tech stack
+
 <div align="center">
-  <sub>Профиль отражает проекты и технологии, с которыми я работаю.</sub>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,vite,python,django,nodejs,php,java,mysql,git,tailwind,figma&perline=8" alt="Tech stack" />
+</div>
+
+## 🚀 Selected projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Savatan/GenesisAuto">GenesisAuto</a></h3>
+      <p>Automotive website with lead submission and Bitrix24 integration.</p>
+      <p><sub>Vue · Vite · API integration</sub></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Savatan/Film">Film</a></h3>
+      <p>A project for collecting and processing movie information.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Savatan/MM-frontend">MM-frontend</a> · <a href="https://github.com/Savatan/MM-backend">MM-backend</a></h3>
+      <p>Frontend and backend parts of a web project.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Savatan/Catalog-Book">Catalog-Book</a></h3>
+      <p>A book catalog built with Django.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Savatan/Receipt-for-Luck">Receipt-for-Luck</a></h3>
+      <p>Frontend project.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Savatan/BlackSmithVR">BlackSmithVR</a></h3>
+      <p>Virtual reality project.</p>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Savatan&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savatan&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Savatan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <sub>Always building, learning, and shipping.</sub>
 </div>
