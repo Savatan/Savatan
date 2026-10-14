@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Привет%2C+я+Savatan+%F0%9F%91%8B;Full-Stack+разработчик;Создаю+веб-приложения" alt="Привет, я Savatan — Full-Stack разработчик" />
+<h1 align="center">Привет! 👋 Я Savatan</h1>
 
-<p>
-  <b>Full-Stack-разработчик</b><br/>
-  Frontend · Backend · Веб-приложения
-</p>
+<p align="center"><b>Full-Stack-разработчик</b><br/>Frontend · Backend · Веб-приложения</p>
 
 </div>
 
