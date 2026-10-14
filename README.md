@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Savatan!+%F0%9F%91%8B;Full-Stack+Developer;Building+web+applications" alt="Hi, I'm Savatan — Full-Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Savatan!+%F0%9F%91%8B;Full-Stack+Developer;Building+web+applications" alt="Привет,я Сема — Full-Stack Developer" />
 
 <p><b>Full-Stack-разработчик</b><br/>Frontend · Backend · Веб-приложения</p>
 
