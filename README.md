@@ -13,7 +13,7 @@
 
 Full-Stack-разработчик. Разрабатываю веб-приложения, работаю как с frontend, так и с backend, и развиваю собственные проекты.
 
-- **Frontend:** JavaScript, HTML, CSS, Vue.js, Vite
+- **Frontend:** JavaScript, HTML, CSS, React, Vue.js, Vite
 - **Backend:** Python, Django, Node.js
 - **Инструменты и базы данных:** Git, MySQL
 
@@ -21,7 +21,7 @@ Full-Stack-разработчик. Разрабатываю веб-прилож�
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,html,css,vue,vite,python,django,nodejs,mysql,git,php,java,tailwind,figma&perline=7" alt="Технологии и инструменты" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,vite,python,django,nodejs,mysql,git,php,java,tailwind,figma&perline=7" alt="Технологии и инструменты" />
 
 </div>
 
